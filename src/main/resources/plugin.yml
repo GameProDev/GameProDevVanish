@@ -1,0 +1,14 @@
+name: GameProDevVanish
+version: '${project.version}'
+main: de.gameprodev.gameProDevVanish.GameProDevVanish
+api-version: '1.21'
+author: Joelh
+commands:
+  vanish:
+    usage: /vanish
+    permission: gameprodevvanish.vanish
+permissions:
+  gameprodevvanish.vanish:
+    default: op
+  gameprodevvanish.see:
+    default: op
