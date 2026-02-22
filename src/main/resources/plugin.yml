@@ -2,7 +2,7 @@ name: GameProDevVanish
 version: '${project.version}'
 main: de.gameprodev.gameProDevVanish.GameProDevVanish
 api-version: '1.21'
-author: Joelh
+author: GameProDev
 commands:
   vanish:
     usage: /vanish
